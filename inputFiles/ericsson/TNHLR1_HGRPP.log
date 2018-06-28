@@ -1,0 +1,53 @@
+<HGRPP;
+HLR ROAMING SERVICE PROFILE DATA
+
+RSP
+  1
+
+SUD
+ARD-1
+
+RSIP
+  1
+
+SUD
+ARD-2
+
+RSIP
+  2
+
+SUD                BSG
+BAOC-1             TS10
+                   TS20
+                   TS60
+                   
+                   BS20
+                   BS30
+BAIC-1             TS10
+                   TS60
+                   
+                   BS20
+                   BS30
+
+RSIP
+  4
+
+SUD
+ARD-1
+
+RSIP
+  5
+
+SUD
+ODB-1
+OBP-2
+
+RSIP
+  5
+
+SUD
+OBR-2
+OBP-2
+
+END
+

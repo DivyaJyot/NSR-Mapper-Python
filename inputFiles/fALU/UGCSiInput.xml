@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulkCmConfigDataFile xmlns:conf="sumNrm.xsd" xmlns="configData.xsd" xmlns:xn="genericNrm-alcatel.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="configData.xsd configData.xsd">
+<fileHeader fileFormatVersion="32.615 V5.0"/>
+<configData>
+<xn:ManagedElement id="HSS1">
+    <conf:PlmnFunction id="1">
+        <conf:MobileCountryCode id="427">
+            <conf:MobileNetworkCode id="02">
+                <conf:UnrestCamelSKForIOT id="1">
+                    <conf:attributes>
+                        <conf:LIST_notPerCamelPhaseServiceKeys>
+                            <conf:notPerCamelPhaseServiceKeys>2147483647</conf:notPerCamelPhaseServiceKeys>
+                        </conf:LIST_notPerCamelPhaseServiceKeys>
+                    </conf:attributes>
+                </conf:UnrestCamelSKForIOT>
+                <conf:SmsmoInhibitionSK id="1">
+                    <conf:attributes>
+                        <conf:LIST_SmsmoInhibitionServiceKeys>
+                            <conf:SmsmoInhibitionServiceKeys>2147483647</conf:SmsmoInhibitionServiceKeys>
+                        </conf:LIST_SmsmoInhibitionServiceKeys>
+                    </conf:attributes>
+                </conf:SmsmoInhibitionSK>
+            </conf:MobileNetworkCode>
+        </conf:MobileCountryCode>
+    </conf:PlmnFunction>
+    <conf:CustomizationFunction id="1">
+        <conf:ConfigurationData id="1">
+            <conf:GlobalUssdCamel id="18">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313131</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>IA5</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="15">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313239</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPH1</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="17">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313131</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPHD</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="36">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A333036</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="37">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A333135</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="63">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323134</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="24">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313030</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>IA5</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="41">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313231</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="53">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313237</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="57">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323232</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="60">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323130</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="10">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313237</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>IA5</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="31">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477922101</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313135</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>IA5</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="52">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313239</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="34">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323030</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="62">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323133</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="70">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313137</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="73">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A373737</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="28">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313134</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>IA5</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="6">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A31323423</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPH1</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="20">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313132</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPHD</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="23">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313030</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPHD</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="50">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A373539</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="72">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A353030</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="76">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A373931</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="79">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313230</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="80">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A373839</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="26">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313133</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPHD</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="29">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313134</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPHD</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="7">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313233</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="3">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313234</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPH1</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="16">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313131</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPH1</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="55">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323531</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="77">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313531</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="2">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313234</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPHD</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="35">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A333032</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="75">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313331</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="38">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A333030</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="81">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A353535</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="4">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A31323423</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>IA5</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="40">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313130</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="61">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323132</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="33">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477922101</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313135</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPH1</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="51">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313530</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="78">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313631</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="30">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313134</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPH1</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="13">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313239</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>IA5</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="54">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323031</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="59">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323231</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="21">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313132</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPH1</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="56">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313031</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="5">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A31323423</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPHD</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="14">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313239</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPHD</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="39">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323530</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="22">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313030</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPH1</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="32">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477922101</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313135</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPHD</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="11">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313237</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPHD</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="71">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313138</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="74">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313330</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="19">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313132</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>IA5</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="27">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313133</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPH1</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="1">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313234</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>IA5</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="25">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313133</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>IA5</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="58">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920070</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A323233</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="12">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>919747920031</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313237</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALPH1</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:GlobalUssdCamel id="42">
+                <conf:attributes>
+                    <conf:globalUcsiScpAddress>9197477920069</conf:globalUcsiScpAddress>
+                    <conf:globalServiceCode>2A313232</conf:globalServiceCode>
+                    <conf:globalCodingAlphabet>ALL</conf:globalCodingAlphabet>
+                </conf:attributes>
+            </conf:GlobalUssdCamel>
+            <conf:VlrWithoutSor id="1">
+                <conf:attributes>
+                    <conf:addressVlrWithoutSor>910000000</conf:addressVlrWithoutSor>
+                </conf:attributes>
+            </conf:VlrWithoutSor>
+            <conf:Omc id="1">
+                <conf:attributes>
+                    <conf:omcLabel>OMC-SDM</conf:omcLabel>
+                    <conf:omcAddress>910000000</conf:omcAddress>
+                </conf:attributes>
+            </conf:Omc>
+            <conf:FrontEnd id="OAM_FE1">
+                <conf:attributes>
+                    <conf:feNumber>0</conf:feNumber>
+                    <conf:localFETimeDiff>NONE</conf:localFETimeDiff>
+                    <conf:localFEIsdnNumber>77920003</conf:localFEIsdnNumber>
+                </conf:attributes>
+            </conf:FrontEnd>
+            <conf:FrontEnd id="OAM_FE2">
+                <conf:attributes>
+                    <conf:feNumber>1</conf:feNumber>
+                    <conf:localFETimeDiff>NONE</conf:localFETimeDiff>
+                    <conf:localFEIsdnNumber>77920004</conf:localFEIsdnNumber>
+                </conf:attributes>
+            </conf:FrontEnd>
+            <conf:ConfPlmn id="1">
+                <conf:attributes>
+                    <conf:maxPhaseForEqmngtIncAC>V3</conf:maxPhaseForEqmngtIncAC>
+                    <conf:maxPhaseForIstaleIncAC>NSUP</conf:maxPhaseForIstaleIncAC>
+                    <conf:initPhaseForSerterOutAC>NSUP</conf:initPhaseForSerterOutAC>
+                    <conf:initPhaseForSmmtreOutAC>NSUP</conf:initPhaseForSmmtreOutAC>
+                    <conf:maxPhaseForGpfailIncAC>V3</conf:maxPhaseForGpfailIncAC>
+                    <conf:maxPhaseForGplocrIncAC>V3</conf:maxPhaseForGplocrIncAC>
+                    <conf:maxPhaseForAthrqIncAC>V3</conf:maxPhaseForAthrqIncAC>
+                    <conf:maxPhaseForLcsgwIncAC>V3</conf:maxPhaseForLcsgwIncAC>
+                    <conf:maxPhaseForAufailIncAC>V3</conf:maxPhaseForAufailIncAC>
+                    <conf:maxPhaseForCcompIncAC>NSUP</conf:maxPhaseForCcompIncAC>
+                    <conf:maxPhaseForReportIncAC>NSUP</conf:maxPhaseForReportIncAC>
+                    <conf:maxPhaseForGplcupIncAC>V3</conf:maxPhaseForGplcupIncAC>
+                    <conf:maxPhaseForAtienqIncAC>V3</conf:maxPhaseForAtienqIncAC>
+                    <conf:maxPhaseForMspurgIncAC>V3</conf:maxPhaseForMspurgIncAC>
+                    <conf:maxPhaseForSmwdtmIncAC>V3</conf:maxPhaseForSmwdtmIncAC>
+                    <conf:maxPhaseForSmgwayIncAC>V3</conf:maxPhaseForSmgwayIncAC>
+                    <conf:maxPhaseForNwusshIncAC>V2</conf:maxPhaseForNwusshIncAC>
+                    <conf:maxPhaseForNwfsshIncAC>V2</conf:maxPhaseForNwfsshIncAC>
+                    <conf:maxPhaseForLocretIncAC>V3</conf:maxPhaseForLocretIncAC>
+                    <conf:maxPhaseForInfretIncAC>V3</conf:maxPhaseForInfretIncAC>
+                    <conf:maxPhaseForImsirtIncAC>V2</conf:maxPhaseForImsirtIncAC>
+                    <conf:maxPhaseForLocupdIncAC>V3</conf:maxPhaseForLocupdIncAC>
+                    <conf:initPhaseForSubModOutAC>NSUP</conf:initPhaseForSubModOutAC>
+                    <conf:initPhaseForGpnotOutAC>V3</conf:initPhaseForGpnotOutAC>
+                    <conf:initPhaseForSsnotiOutAC>NSUP</conf:initPhaseForSsnotiOutAC>
+                    <conf:initPhaseForReportOutAC>NSUP</conf:initPhaseForReportOutAC>
+                    <conf:initPhaseForSinenqOutAC>V3</conf:initPhaseForSinenqOutAC>
+                    <conf:initPhaseForSmalrtOutAC>V2</conf:initPhaseForSmalrtOutAC>
+                    <conf:initPhaseForNwusshOutAC>V2</conf:initPhaseForNwusshOutAC>
+                    <conf:initPhaseForTrcingOutAC>V3</conf:initPhaseForTrcingOutAC>
+                    <conf:initPhaseForSubdtmOutAC>V3</conf:initPhaseForSubdtmOutAC>
+                    <conf:initPhaseForHlrrstOutAC>V2</conf:initPhaseForHlrrstOutAC>
+                    <conf:initPhaseForRnbenqOutAC>V3</conf:initPhaseForRnbenqOutAC>
+                    <conf:initPhaseForLoccanOutAC>V3</conf:initPhaseForLoccanOutAC>
+                    <conf:confSccpSegmentation>NOSEG</conf:confSccpSegmentation>
+                </conf:attributes>
+            </conf:ConfPlmn>
+            <conf:ConfGlobalHlrData id="1">
+                <conf:attributes>
+                    <conf:LIST_hlrRealTimeLogs>
+                        <conf:hlrRealTimeLogs>NOLOG</conf:hlrRealTimeLogs>
+                    </conf:LIST_hlrRealTimeLogs>
+                    <conf:logFilterPeriod>0</conf:logFilterPeriod>
+                    <conf:range5Max>A0</conf:range5Max>
+                    <conf:range5Min>90</conf:range5Min>
+                    <conf:range4Max>80</conf:range4Max>
+                    <conf:range4Min>70</conf:range4Min>
+                    <conf:range3Max>60</conf:range3Max>
+                    <conf:range3Min>50</conf:range3Min>
+                    <conf:range2Max>40</conf:range2Max>
+                    <conf:range2Min>30</conf:range2Min>
+                    <conf:range1Max>20</conf:range1Max>
+                    <conf:range1Min>10</conf:range1Min>
+                    <conf:servicePlatformIsdnAddress>9100000000000</conf:servicePlatformIsdnAddress>
+                    <conf:maxSubsInactDuringUssdSession>10</conf:maxSubsInactDuringUssdSession>
+                    <conf:maximumUssdSessionDuration>10</conf:maximumUssdSessionDuration>
+                    <conf:LIST_arrayOfServiceKeysTCSI>
+                        <conf:arrayOfServiceKeysTCSI>71</conf:arrayOfServiceKeysTCSI>
+                    </conf:LIST_arrayOfServiceKeysTCSI>
+                    <conf:roamingNotAllowed>0</conf:roamingNotAllowed>
+                    <conf:LIST_mwdFlagHandlingCustom>
+                        <conf:mwdFlagHandlingCustom>NONE</conf:mwdFlagHandlingCustom>
+                    </conf:LIST_mwdFlagHandlingCustom>
+                    <conf:papTransType>0</conf:papTransType>
+                    <conf:globalSupportSlppDownload>0</conf:globalSupportSlppDownload>
+                    <conf:globalSupportPaiDownload>0</conf:globalSupportPaiDownload>
+                    <conf:dummyVlrForSmsRouteViaHNet>9197477922225</conf:dummyVlrForSmsRouteViaHNet>
+                    <conf:namPsKey>GPRSonly</conf:namPsKey>
+                    <conf:namCsKey>noGPRS</conf:namCsKey>
+                    <conf:dummyVlrForSmsApplicability>SUBNWKENTRLY</conf:dummyVlrForSmsApplicability>
+                    <conf:globalNullScpAddress>919747920031</conf:globalNullScpAddress>
+                    <conf:cliInfoLocation>BOTHPASIGINF</conf:cliInfoLocation>
+                    <conf:msRestrictionByDefault>HPLMN</conf:msRestrictionByDefault>
+                    <conf:defaultTranslationPhase>1</conf:defaultTranslationPhase>
+                    <conf:smsIwmscIsdnNumber>9100000000000</conf:smsIwmscIsdnNumber>
+                    <conf:localHlrCountryCode>974</conf:localHlrCountryCode>
+                    <conf:localHlrIsdnNumber>9197477920002</conf:localHlrIsdnNumber>
+                    <conf:sponMsgOnIntraPlmnFallback>1</conf:sponMsgOnIntraPlmnFallback>
+                    <conf:lengthPlmnInternationalDPC>14</conf:lengthPlmnInternationalDPC>
+                    <conf:lengthPlmnNationalDPC>14</conf:lengthPlmnNationalDPC>
+                    <conf:lengthPlmnLocalDPC>14</conf:lengthPlmnLocalDPC>
+                </conf:attributes>
+            </conf:ConfGlobalHlrData>
+            <conf:ConfAucData id="1">
+                <conf:attributes>
+                    <conf:bluephoneService>0</conf:bluephoneService>
+                    <conf:authCharK2id>0</conf:authCharK2id>
+                    <conf:authCharK4id>0</conf:authCharK4id>
+                    <conf:sqnResetValue>4398046511103</conf:sqnResetValue>
+                    <conf:defaultNbQuintuplets>5</conf:defaultNbQuintuplets>
+                    <conf:defaultNbTriplets>5</conf:defaultNbTriplets>
+                    <conf:LIST_enableAlgorithmsRedirection>
+                        <conf:enableAlgorithmsRedirection>NOVALUE</conf:enableAlgorithmsRedirection>
+                    </conf:LIST_enableAlgorithmsRedirection>
+                    <conf:AMF>0000</conf:AMF>
+                    <conf:k4Key>00000000000000000000000000000000</conf:k4Key>
+                    <conf:currentK2index>0</conf:currentK2index>
+                    <conf:oldK2index>0</conf:oldK2index>
+                    <conf:currentK2Key>00000000000000000000000000000000</conf:currentK2Key>
+                    <conf:oldK2Key>00000000000000000000000000000000</conf:oldK2Key>
+                </conf:attributes>
+            </conf:ConfAucData>
+            <conf:ConfSupplementaryService id="1">
+                <conf:attributes>
+                    <conf:specialExtentedFtnCcPrefix>0</conf:specialExtentedFtnCcPrefix>
+                    <conf:specialExtentedFtnNaiPrefix>0</conf:specialExtentedFtnNaiPrefix>
+                    <conf:smsbPrefix>122</conf:smsbPrefix>
+                    <conf:fEMLPP100>0</conf:fEMLPP100>
+                </conf:attributes>
+            </conf:ConfSupplementaryService>
+            <conf:ConfOAM id="1">
+                <conf:attributes>
+                    <conf:rehomingLogClearTimer>1</conf:rehomingLogClearTimer>
+                    <conf:alarmClearTimer>10</conf:alarmClearTimer>
+                    <conf:forceManualPolicy>1</conf:forceManualPolicy>
+                    <conf:defaultNRGKey>1</conf:defaultNRGKey>
+                    <conf:mediationMode>NORMAL</conf:mediationMode>
+                    <conf:logMode>REQATTR</conf:logMode>
+                </conf:attributes>
+            </conf:ConfOAM>
+            <conf:ConfSpareData id="1">
+                <conf:attributes>
+                    <conf:confspare8>Not Used</conf:confspare8>
+                    <conf:confspare7>0</conf:confspare7>
+                    <conf:confspare6>0</conf:confspare6>
+                    <conf:confspare5>0</conf:confspare5>
+                    <conf:confspare4>0</conf:confspare4>
+                    <conf:confspare3>64</conf:confspare3>
+                    <conf:confspare2>0</conf:confspare2>
+                    <conf:confspare1>0</conf:confspare1>
+                </conf:attributes>
+            </conf:ConfSpareData>
+            <conf:ConfInterception id="1">
+                <conf:attributes>
+                    <conf:liDataEncryptFlag>0</conf:liDataEncryptFlag>
+                    <conf:confInterSpare2>0</conf:confInterSpare2>
+                    <conf:LIST_evtTypesSavedOnX2Failure>
+                        <conf:evtTypesSavedOnX2Failure>NONE</conf:evtTypesSavedOnX2Failure>
+                    </conf:LIST_evtTypesSavedOnX2Failure>
+                    <conf:tagNewImsiOnImsiChange>0</conf:tagNewImsiOnImsiChange>
+                    <conf:LIST_targetInfoChangeOnX2>
+                        <conf:targetInfoChangeOnX2>NAM_CHANGE</conf:targetInfoChangeOnX2>
+                        <conf:targetInfoChangeOnX2>MSISDN_CHANGE</conf:targetInfoChangeOnX2>
+                        <conf:targetInfoChangeOnX2>IMSI_CHANGE</conf:targetInfoChangeOnX2>
+                    </conf:LIST_targetInfoChangeOnX2>
+                    <conf:tagImsiOnMsisdnInterception>1</conf:tagImsiOnMsisdnInterception>
+                    <conf:LIST_servSystemEventsOnX2>
+                        <conf:servSystemEventsOnX2>ROAM_CS</conf:servSystemEventsOnX2>
+                        <conf:servSystemEventsOnX2>ROAM_PS</conf:servSystemEventsOnX2>
+                    </conf:LIST_servSystemEventsOnX2>
+                    <conf:mediationFunctionPortNumber>0</conf:mediationFunctionPortNumber>
+                    <conf:LIST_ssOperationEventsOnX2>
+                        <conf:ssOperationEventsOnX2>CF_MGT</conf:ssOperationEventsOnX2>
+                        <conf:ssOperationEventsOnX2>CF_SCI</conf:ssOperationEventsOnX2>
+                    </conf:LIST_ssOperationEventsOnX2>
+                    <conf:LIST_tCallEventsOnX2>
+                        <conf:tCallEventsOnX2>SRI_GPRS</conf:tCallEventsOnX2>
+                        <conf:tCallEventsOnX2>SRI_SM</conf:tCallEventsOnX2>
+                        <conf:tCallEventsOnX2>SRI</conf:tCallEventsOnX2>
+                    </conf:LIST_tCallEventsOnX2>
+                    <conf:LIST_locUpdateEventsOnX2>
+                        <conf:locUpdateEventsOnX2>SA_CAN_LOC</conf:locUpdateEventsOnX2>
+                        <conf:locUpdateEventsOnX2>PURGE_MS</conf:locUpdateEventsOnX2>
+                        <conf:locUpdateEventsOnX2>UPD_GPRS_LOC</conf:locUpdateEventsOnX2>
+                        <conf:locUpdateEventsOnX2>UPD_LOC</conf:locUpdateEventsOnX2>
+                    </conf:LIST_locUpdateEventsOnX2>
+                </conf:attributes>
+            </conf:ConfInterception>
+            <conf:ConfMultiSim id="1">
+                <conf:attributes>
+                    <conf:fMSIM004>1</conf:fMSIM004>
+                    <conf:maxNbOfMemberPolledForSms>3</conf:maxNbOfMemberPolledForSms>
+                    <conf:fSA108>0</conf:fSA108>
+                </conf:attributes>
+            </conf:ConfMultiSim>
+            <conf:ReHoming id="1">
+                <conf:attributes>
+                    <conf:reHomingDate>0</conf:reHomingDate>
+                    <conf:reHomingErrors>0</conf:reHomingErrors>
+                    <conf:reHomedSubsCpt>0</conf:reHomedSubsCpt>
+                    <conf:reHomingCpt>0</conf:reHomingCpt>
+                    <conf:reHomingStatus>NOT_IN_PROGRESS</conf:reHomingStatus>
+                </conf:attributes>
+            </conf:ReHoming>
+        </conf:ConfigurationData>
+    </conf:CustomizationFunction>
+</xn:ManagedElement>
+</configData>
+<fileFooter dateTime="2017-12-31T16:16:10"/>
+</bulkCmConfigDataFile>

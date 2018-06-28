@@ -1,0 +1,23 @@
+HLR LA EXTENDED QUALITY OF SERVICE DATA 
+
+EQOSID  TC    ARP  DO   SDU          MBRU    MBRD    THP  TD    GBRU
+                                                                GBRD
+  50    BACK  1    YES  YES-150-4-4    64     256
+  20    BACK  1    YES  YES-140-4-4  200000  200000
+  15    BACK  1    YES  YES-140-4-4  2048    4096
+  14    BACK  1    YES  YES-140-4-4  2048    8064
+  13    BACK  1    YES  YES-140-4-4  1024     256
+  12    BACK  3    YES  YES-140-4-4   576     640
+  11    INT   1    YES  YES-150-4-4  2048    2048    1
+   8    BACK  1    YES  YES-140-4-4  8000     42000
+   7    BACK  1    YES  YES-140-4-4  3072    3072
+   6    BACK  1    YES  YES-140-4-4  8640     42000
+   5    CON   1    YES  YES-100-3-3  8640     42000        100
+   4    BACK  1    YES  YES-140-4-4   352     352
+   3    BACK  1    YES  YES-140-4-4  2048    2048
+   2    CON   2    YES  YES-100-3-3  2048    2048          120    80
+   1    BACK  1    YES  YES-140-4-4  8576     41000
+   0    INT   3    NO   NO-145-7-4     64      64    3     100     0
+                                                                   0                                                                   
+END                                                           
+                                                                                        

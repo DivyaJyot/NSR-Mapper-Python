@@ -1,0 +1,18 @@
+Private Sub GenerateNokiaMap_Click()
+Dim arg1 As String
+Dim arg2 As String
+Dim arg3 As String
+Dim arg As String
+arg1 = ActiveWorkbook.FullName
+arg2 = "ericsson"
+arg = Left(arg1, InStrRev(arg1, "\"))
+argtemp = Left(arg1, InStrRev(arg1, "\") - 1)
+arg = Left(argtemp, InStrRev(argtemp, "\"))
+arg0 = arg & "main.exe"
+commandString = Chr(34) & arg0 & Chr(34) & " " & Chr(34) & arg1 & Chr(34) & " " & Chr(34) & arg2 & Chr(34) & " "
+'Cells(16, 6).value = commandString
+ActiveWorkbook.Save
+'MsgBox ("cd " & Chr(34) & arg & Chr(34) & " ")
+Call Shell("cmd.exe /k cd /d " & arg & " & " & commandString, 1)
+
+End Sub
